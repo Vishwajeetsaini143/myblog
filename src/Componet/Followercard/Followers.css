@@ -1,0 +1,29 @@
+.follow-name{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+h2{
+    font-size: 30px;
+    text-align: center;
+    color: tomato;
+}
+.follow-p h1{
+    padding-left: 20px;
+}
+.follow-name1 img{
+    height: 60px;
+    padding-left: 20px;
+}
+.follow-name2 h3{
+    font-size: 15px;
+    line-height: 2px;
+
+}
+.follow-name2 h5{
+    font-size: 11px;
+}
+.follow-follow{
+    padding-left: 8px;
+    font-size: 15px;
+}

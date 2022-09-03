@@ -1,0 +1,17 @@
+.Home{
+    display: grid;
+    grid-template-columns: 350px auto 350px;
+    gap: 25px;
+
+}
+
+.Home-profile{
+    background-color: #fff;
+}
+
+.Home-postslide{
+    background-color:#fff;
+}
+.Home-rightslide{
+    background-color:#fff;
+}
